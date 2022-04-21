@@ -1,0 +1,19 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "rpg game using jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidhsklar/jest-another-rpg.git"
+  },
+  "author": "david sklar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidhsklar/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/davidhsklar/jest-another-rpg#readme"
+}
