@@ -4,7 +4,9 @@
   "description": "rpg game using jest",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "inquirer,": "jest",
+    "questions": "inquirer"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/davidhsklar/jest-another-rpg/issues"
   },
-  "homepage": "https://github.com/davidhsklar/jest-another-rpg#readme"
+  "homepage": "https://github.com/davidhsklar/jest-another-rpg#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
 }
